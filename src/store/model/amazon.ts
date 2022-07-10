@@ -46,6 +46,14 @@ export const Amazon: Store = {
       url: 'https://www.amazon.com/dp/B089KV4YYX',
     },
     {
+      brand: 'logitech',
+      cartUrl:
+        'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B079P6SSHP&Quantity.1=1',
+      model: 'x56hotas',
+      series: 'x56hotas',
+      url: 'https://www.amazon.com/dp/B079P6SSHP',
+    },
+    {
       brand: 'asus',
       cartUrl:
         'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08P2HBBLX&Quantity.1=1',

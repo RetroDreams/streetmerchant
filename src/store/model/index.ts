@@ -115,6 +115,7 @@ import {NoelLeeming} from './noelleeming';
 import {Notebooksbilliger} from './notebooksbilliger';
 import {Novatech} from './novatech';
 import {NovoAtalho} from './novoatalho';
+import {Nuphy} from './nuphy';
 import {NvidiaDE} from './nvidia-de';
 import {NvidiaES} from './nvidia-es';
 import {NvidiaFR} from './nvidia-fr';
@@ -289,6 +290,7 @@ export const storeList = new Map([
   [Notebooksbilliger.name, Notebooksbilliger],
   [Novatech.name, Novatech],
   [NovoAtalho.name, NovoAtalho],
+  [Nuphy.name, Nuphy],
   [NvidiaDE.name, NvidiaDE],
   [NvidiaES.name, NvidiaES],
   [NvidiaFR.name, NvidiaFR],
